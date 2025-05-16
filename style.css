@@ -1,0 +1,39 @@
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0%;
+}
+
+ nav li {
+    display: inline;
+ }
+
+ body {
+    font-family: 'roboto' sans-serif;
+ }
+
+ .presentation {
+    padding: 20px;
+    background-color: #f9f9f9;
+ }
+
+ .titre-principal {
+    font-size: 2em;
+    color: #555;
+ }
+
+ .description {
+    font-size: 1.2em;
+    color: #555;
+ }
+
+ a {
+    text-decoration: none;
+    color: royalblue;
+ }
+
+ a:hover {
+    color: darkblue;
+ }
+ 
